@@ -1,13 +1,11 @@
-# FinTech
+# MySite
 
-This is the repository for Fiance and technology.
+This is the repository to build the blog based on github.
 
-Python and SQL technology will be used for the programing language.
+It'll help me to lean R, Python, ML, Math and some other fun stuff.
 
-Let's rock.
+And It is also a place to share my approach to lean this new things.
 
+Hope this will help the ppl like me who's trying to adventure in new tech and areas.
 
-This is the repository for Fiance and technology.
-
-Python and SQL technology will be used for the programing language.
-
+Have Fun!
